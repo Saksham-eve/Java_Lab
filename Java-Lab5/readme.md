@@ -1,4 +1,4 @@
-# Filehandeling in Java
+# Filehandling in Java
 
 ## FileWriter
    

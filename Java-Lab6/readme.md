@@ -8,6 +8,7 @@ After a user receives an applet, the applet can produce a graphical user interfa
 *JVM creates an instance of the applet class and invokes init() method to initialize an Applet.
 
 ##Lifecycle of Java Applet
+
 ###Following are the stages in Applet
 1.Applet is initialized.
 2.Applet is started

@@ -36,7 +36,7 @@ public class Simple extends Applet
  }
 }
 ```
-##Advantages of Applet
+## Advantages of Applet
 * It works at client side so less response time.
  * It can be executed by browsers running under many plateforms, including Linux, Windows, Mac Os etc.
 

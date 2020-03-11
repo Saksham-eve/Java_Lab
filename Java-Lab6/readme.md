@@ -1,15 +1,15 @@
-#Applet in Java
+# Applet in Java
 
-*Applets are small Java applications that can be accessed on an Internet server, transported over Internet, and can be automatically installed and run as apart of a web document.
+* Applets are small Java applications that can be accessed on an Internet server, transported over Internet, and can be automatically installed and run as apart of a web document.
 After a user receives an applet, the applet can produce a graphical user interface. 
-*It has limited access to resources so that it can run complex computations without introducing the risk of viruses or breaching data integrity.
-*Any applet in Java is a class that extends the java.applet.Applet class.
-*An Applet class does not have any main() method. It is viewed using JVM. The JVM can use either a plug-in of the Web browser or a separate runtime environment to run an applet application.
-*JVM creates an instance of the applet class and invokes init() method to initialize an Applet.
+* It has limited access to resources so that it can run complex computations without introducing the risk of viruses or breaching data integrity.
+* Any applet in Java is a class that extends the java.applet.Applet class.
+* An Applet class does not have any main() method. It is viewed using JVM. The JVM can use either a plug-in of the Web browser or a separate runtime environment to run an applet application.
+* JVM creates an instance of the applet class and invokes init() method to initialize an Applet.
 
-##Lifecycle of Java Applet
+## Lifecycle of Java Applet
 
-###Following are the stages in Applet
+### Following are the stages in Applet
 1.Applet is initialized.
 2.Applet is started
 3.Applet is painted.
@@ -24,7 +24,7 @@ For creating any applet java.applet.Applet class must be inherited. It provides 
 * public void stop(): is used to stop the Applet. It is invoked when Applet is stop or browser is minimized.
 * public void destroy(): is used to destroy the Applet. It is invoked only once.
 
-##Example
+## Example
 ```javascript
 import java.awt.*;
 import java.applet.*;

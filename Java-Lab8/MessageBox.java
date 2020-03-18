@@ -27,4 +27,4 @@ public class MessageBox {
 			JOptionPane.showMessageDialog(frame, "Message Box");
 		}
 	}
-}
+} 

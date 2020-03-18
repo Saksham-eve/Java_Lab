@@ -40,7 +40,7 @@ public void addActionListener(ActionListener a){}
 -public void addActionListener(ActionListener a){}
 -public void addItemListener(ItemListener a){}
 
-##Java Event Handling Code
+## Java Event Handling Code
 We can put the event handling code into one of the following places:
 
 1. Within class
